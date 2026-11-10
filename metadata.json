@@ -1,0 +1,6 @@
+{
+  "name": "Infinite World - 3D Procedural Driving Simulation",
+  "description": "An infinite, procedurally generated low-poly 3D world with interactive vehicle physics, dynamic chunk streaming, day/night lighting, and customizable biomes built with Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
